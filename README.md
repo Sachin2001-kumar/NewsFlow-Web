@@ -1,4 +1,4 @@
-News_API
+NewsFlow Web
 
 The News API is a simple and user-friendly web application built using HTML, CSS, and JavaScript. It allows users to access the latest news from various sources in a clean and organized interface. The project aims to provide a seamless experience for staying informed about current events.
 
